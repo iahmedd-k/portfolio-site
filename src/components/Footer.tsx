@@ -15,13 +15,9 @@ const Footer = () => {
           {/* Copyright and attribution */}
           <div className="text-center md:text-left">
             <p className="text-gray-300 mb-2">
-              © {currentYear} John Doe. All rights reserved.
+              © {currentYear} Ahmed Khan. All rights reserved.
             </p>
-            <p className="text-gray-400 text-sm flex items-center justify-center md:justify-start gap-1">
-              Built with 
-              <Heart className="w-4 h-4 text-red-500 fill-current" />
-              using Next.js & Tailwind CSS
-            </p>
+            
           </div>
 
           {/* Navigation links */}
