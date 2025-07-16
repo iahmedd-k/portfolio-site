@@ -90,7 +90,7 @@ const TechStack = () => {
             Tech <span className="gradient-text">Stack</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            I work with cutting-edge technologies to build modern, scalable, and performant applications.
+            I work with cutting-edge technologies to build modern, scalable, and performant applications
           </p>
         </div>
 
